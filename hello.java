@@ -3,9 +3,8 @@ public class Hello{
 	public static void main(String[] args) {
 		System.out.println("Hello Git!");
 		try {
-			System.out.println("abcdefghijklmnopqrstuvwxyz");
-			System.out.println("abcdefghijklmnopqrstuvwxyz");
-			System.out.println("abcdefghijklmnopqrstuvwxyz");
+			Emp emp = new Emp();
+			System.out.println("DEV2");
 		}
 		catch () {
 
