@@ -4,9 +4,8 @@ public class Hello{
 		System.out.println("Hello Git!");
 		Date date = new Date();
 		try {
-			System.out.println("abcdefghijklmnopqrstuvwxyz");
-			System.out.println("abcdefghijklmnopqrstuvwxyz");
-			System.out.println("abcdefghijklmnopqrstuvwxyz");
+			Emp emp = new Emp();
+			System.out.println("DEV2");
 		}
 		catch () {
 
